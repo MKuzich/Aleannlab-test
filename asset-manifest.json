@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aleannlab-test/static/css/main.c3d5249d.css",
+    "main.js": "/Aleannlab-test/static/js/main.007568c4.js",
+    "static/js/698.1718b498.chunk.js": "/Aleannlab-test/static/js/698.1718b498.chunk.js",
+    "static/js/694.23144363.chunk.js": "/Aleannlab-test/static/js/694.23144363.chunk.js",
+    "static/js/317.4caf14ed.chunk.js": "/Aleannlab-test/static/js/317.4caf14ed.chunk.js",
+    "index.html": "/Aleannlab-test/index.html",
+    "static/media/location.svg": "/Aleannlab-test/static/media/location.1c093ca173a538132f1ce31ab6296061.svg",
+    "main.c3d5249d.css.map": "/Aleannlab-test/static/css/main.c3d5249d.css.map",
+    "main.007568c4.js.map": "/Aleannlab-test/static/js/main.007568c4.js.map",
+    "698.1718b498.chunk.js.map": "/Aleannlab-test/static/js/698.1718b498.chunk.js.map",
+    "694.23144363.chunk.js.map": "/Aleannlab-test/static/js/694.23144363.chunk.js.map",
+    "317.4caf14ed.chunk.js.map": "/Aleannlab-test/static/js/317.4caf14ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.007568c4.js"
+  ]
+}
